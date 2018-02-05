@@ -1,0 +1,6 @@
+# Don't commit virtual envs
+venv/
+anaconda3/
+
+# Nor compiled python files
+*.pyc
