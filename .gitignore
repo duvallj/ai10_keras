@@ -4,3 +4,6 @@ anaconda3/
 
 # Nor compiled python files
 *.pyc
+
+# Training/testing data files are too large, don't push
+*.npz
